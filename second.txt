@@ -1,2 +1,6 @@
 My second file
+<<<<<<< HEAD
 Exciting stuff added by Person 2
+=======
+Exciting stuff added by Person 1
+>>>>>>> c7a04e086c6e4b063f677c51ce38f2b21776520c
